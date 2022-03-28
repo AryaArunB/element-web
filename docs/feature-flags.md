@@ -104,4 +104,4 @@ If the feature is meant to be forced on (non-configurable):
    and
    [release](https://github.com/vector-im/element-desktop/blob/develop/element.io/release/config.json)
    configs
-5. Celebrate! 🥳
+5. Celebrate! 🥳🥳
